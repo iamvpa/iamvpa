@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-count.glitch.me/iamvpa/count" />
