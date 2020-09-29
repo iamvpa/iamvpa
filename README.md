@@ -13,10 +13,12 @@
 <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /> <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 ## 🎶 Sound
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" />
+## 📈 Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=iamvpa&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvpa&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamvpa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvpa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
