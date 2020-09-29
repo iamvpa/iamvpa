@@ -14,12 +14,18 @@
 ## 🎶 Sound
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" />
 
+## 📈 Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=iamvpa&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvpa&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
+
+
 
 
 
 
 <p align="center"> 
-  Visitor count<br>
+  <b><u>Visitor count</u><br>
   <img src="https://profile-count.glitch.me/iamvpa/count" />
 </p>
 
