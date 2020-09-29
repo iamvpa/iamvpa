@@ -5,7 +5,6 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://iamvpa.github.io/pw/)
 [![website](https://img.shields.io/badge/insta-vpagram-red)](https://www.instagram.com/vpagram/)
 
-&nbsp;
 
 
 **Languages and Tools:**
