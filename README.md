@@ -12,7 +12,7 @@
 ## 💻 OS 
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> 
 ## 💻 Workspace Spec
-<img src="https://img.shields.io/badge/windows-hp%20pavillion%20gaming-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/windows-hp%20pavillion%20gaming-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-rtx2060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 ## 🎮🕹 Games
 [![Linkedin: VPA](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/iamVPA/)
 [![website](https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike)](https://steamcommunity.com/id/iamVPA/)
