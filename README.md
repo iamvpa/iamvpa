@@ -16,6 +16,8 @@
 ## 🎮🕹 Games
 [![Linkedin: VPA](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/iamVPA/)
 [![website](https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike)](https://steamcommunity.com/id/iamVPA/)
+<img src="https://img.shields.io/badge/Valorant-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />
+
 
 ## 🎶 Sound
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" />
