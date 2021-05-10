@@ -17,6 +17,10 @@
 [![Linkedin: VPA](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/iamVPA/)
 [![website](https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike)](https://steamcommunity.com/id/iamVPA/)
 <img src="https://img.shields.io/badge/Valorant-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />
+<img src="https://img.shields.io/badge/PUBG-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+<img src="https://img.shields.io/badge/Resident_Evil-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" />
+<img src="https://img.shields.io/badge/Apex_Legends-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+<img src="https://img.shields.io/badge/Forza_Horizon_4-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 
 ## 🎶 Sound
