@@ -70,7 +70,7 @@
 <summary>Other Stuff</summary>
 	
 	
-  - :octocat: [My Resume](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  - :octocat: [My Resume](https://iamvpa.github.io/pw/images/VPAR.pdf)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 </details>
