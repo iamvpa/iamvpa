@@ -20,7 +20,14 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
-## 👨👩 Social 
+
+<details>
+<summary>More about me!</summary>
+
+
+	
+## 👨👩Social 
+	
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zza/)
 [![website](	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vpagram/)
 <!--## 📝 Blog
@@ -45,13 +52,14 @@
 
 
 ## 🎶 Sound
-<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge" /> 
+	
+</details>
 
 
 
 <details>
-<summary>Click for GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=iamvpa&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvpa&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
