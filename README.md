@@ -63,7 +63,7 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=iamvpa&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvpa&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvpa&" alt="iamvpa" /></p>
+
 </details>
 
 <details>
