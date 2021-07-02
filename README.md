@@ -70,7 +70,7 @@
 <summary>Other Stuff</summary>
 	
 	
-  - :octocat: [My Resume](https://github.com/iamvpa/vpa/blob/main/vpaResumeV2.pdf)
+  - :octocat: [My Resume](https://github.com/iamvpa/vpa/blob/main/vpaResumeV3.pdf)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 </details>
