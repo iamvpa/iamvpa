@@ -28,7 +28,7 @@
 	
 ## 👨👩Social 
 	
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zza/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priy/)
 [![website](	https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vpagram/)
 <!--## 📝 Blog
 [![Linkedin: VPA](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishnu.csebt18)
@@ -42,8 +42,6 @@
 ## 💻 Workspace Spec
 <img src="https://img.shields.io/badge/windows-hp%20pavillion%20gaming-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-rtx2060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 ## 🎮🕹 Games
-[![Linkedin: VPA](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/iamVPA/)
-[![website](https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike)](https://steamcommunity.com/id/iamVPA/)
 <img src="https://img.shields.io/badge/Valorant-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />
 <img src="https://img.shields.io/badge/PUBG-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
 <img src="https://img.shields.io/badge/Resident_Evil-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" />
@@ -70,7 +68,7 @@
 <summary>Other Stuff</summary>
 	
 	
-  - :octocat: [My Resume](https://github.com/iamvpa/vpa/blob/main/vpaResumeV3.pdf)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1Hgud707LtTIVaJLeGVER6b9eGtaJTQHy/view)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 </details>
