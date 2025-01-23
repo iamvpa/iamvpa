@@ -6,12 +6,12 @@
 		current_edu = "NIT Uttarakhand"
 		hobbies = [
 				'Gaming',
-				'Watching Anime',
-				'Photography'
+				'Bike Trips',
+				'Coding'
 			]
 	
 	def getCity():
-		return Lucknow_India()
+		return Bengaluru_India()
 	
 	def Ambitions():
 		LearnJapanese()
